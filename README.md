@@ -45,8 +45,7 @@ Sales dipped in February and April, then peaked strongly in August — useful fo
 3. **Power BI** — Imported the dataset, built a relationship model, and created a 5-visual interactive dashboard (regional sales, category profit, monthly trend, sales rep performance, segment split) with cross-filtering enabled.
 
 ## Dashboard Preview
-(https://github.com/YOGHI719/superstore-sales-analysis/commit/36c4b688c04f623e1829f59a42ec88f257010595)
-
+![Dashboard Screenshot](Screenshot%202026-09-23%20224204.png)
 ## Recommendations
 - Investigate discounting policy in the West region to protect margins.
 - Review pricing/promotion strategy for Clothing and Stationery categories.
